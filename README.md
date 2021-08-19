@@ -1,15 +1,7 @@
 ## Contents
-<<<<<<< HEAD
-<<<<<<< HEAD
 - [API Constitution](#api_constitution)
   - [Request-response scheme](#api_constitution_scheme)
   - [Errors list](#api_constitution_errors_list)
-=======
-=======
->>>>>>> ee872c5e837ee56e744788753490757d7d6273a8
-- [Structures](#structures)
-  - [test](#structures_test)
->>>>>>> ee872c5e837ee56e744788753490757d7d6273a8
 - [Routes](#routes)
   - [Sign Up](#routes_sign_up)
   - [Sign In](#routes_sign_in)
@@ -101,9 +93,6 @@ Method: POST
 }
 ```
 
-
-
-
 ### Get all lists (🔒) <div id="routes_all_lists"></div>
 ```
 Method: GET
@@ -127,8 +116,6 @@ Authorization: Bearer ...
     ]
 }
 ```
-
-
 
 ### Get a list by Id (🔒) <div id="routes_list"></div>
 ```
@@ -197,7 +184,6 @@ Authorization: Bearer ...
 }
 ```
 
-
 ### Delete a list (🔒) <div id="routes_delete_list"></div>
 ```
 Method: DELETE
@@ -244,8 +230,6 @@ Authorization: Bearer ...
     }
 ]
 ```
-
-
 
 ### Get an item by Id (🔒) <div id="routes_item"></div>
 ```
