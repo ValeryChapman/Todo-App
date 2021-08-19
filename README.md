@@ -1,9 +1,12 @@
 ## Contents
 <<<<<<< HEAD
+<<<<<<< HEAD
 - [API Constitution](#api_constitution)
   - [Request-response scheme](#api_constitution_scheme)
   - [Errors list](#api_constitution_errors_list)
 =======
+=======
+>>>>>>> ee872c5e837ee56e744788753490757d7d6273a8
 - [Structures](#structures)
   - [test](#structures_test)
 >>>>>>> ee872c5e837ee56e744788753490757d7d6273a8
