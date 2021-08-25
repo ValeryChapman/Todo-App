@@ -63,7 +63,7 @@ make migrate
 
 ## Routes <div id="routes"></div>
 
-### Sign Up (👱) <div id="routes_sign_up"></div>
+### Sign Up <div id="routes_sign_up"></div>
 ```
 Method: POST
 ```
@@ -84,7 +84,7 @@ Method: POST
 }
 ```
 
-### Sign In (👱) <div id="routes_sign_in"></div>
+### Sign In <div id="routes_sign_in"></div>
 ```
 Method: POST
 ```
@@ -104,7 +104,7 @@ Method: POST
 }
 ```
 
-### Get all lists (🔒) <div id="routes_all_lists"></div>
+### Get all lists <div id="routes_all_lists"></div>
 ```
 Method: GET
 ```
@@ -128,7 +128,7 @@ Authorization: Bearer ...
 }
 ```
 
-### Get a list by Id (🔒) <div id="routes_list"></div>
+### Get a list by Id <div id="routes_list"></div>
 ```
 Method: GET
 ```
@@ -147,7 +147,7 @@ Authorization: Bearer ...
 }
 ```
 
-### Create a list (🔒) <div id="routes_create_list"></div>
+### Create a list <div id="routes_create_list"></div>
 ```
 Method: POST
 ```
@@ -171,7 +171,7 @@ Authorization: Bearer ...
 }
 ```
 
-### Edit a list (🔒) <div id="routes_edit_list"></div>
+### Edit a list <div id="routes_edit_list"></div>
 ```
 Method: PUT
 ```
@@ -195,7 +195,7 @@ Authorization: Bearer ...
 }
 ```
 
-### Delete a list (🔒) <div id="routes_delete_list"></div>
+### Delete a list <div id="routes_delete_list"></div>
 ```
 Method: DELETE
 ```
@@ -213,7 +213,7 @@ Authorization: Bearer ...
 }
 ```
 
-### Get all items (🔒) <div id="routes_all_items"></div>
+### Get all items <div id="routes_all_items"></div>
 ```
 Method: GET
 ```
@@ -242,7 +242,7 @@ Authorization: Bearer ...
 ]
 ```
 
-### Get an item by Id (🔒) <div id="routes_item"></div>
+### Get an item by Id <div id="routes_item"></div>
 ```
 Method: GET
 ```
@@ -263,7 +263,7 @@ Authorization: Bearer ...
 }
 ```
 
-### Create an item (🔒) <div id="routes_create_item"></div>
+### Create an item <div id="routes_create_item"></div>
 ```
 Method: POST
 ```
@@ -287,7 +287,7 @@ Authorization: Bearer ...
 }
 ```
 
-### Edit an item (🔒) <div id="routes_edit_item"></div>
+### Edit an item <div id="routes_edit_item"></div>
 ```
 Method: PUT
 ```
@@ -312,7 +312,7 @@ Authorization: Bearer ...
 }
 ```
 
-### Delete an item (🔒) <div id="routes_delete_item"></div>
+### Delete an item <div id="routes_delete_item"></div>
 ```
 Method: DELETE
 ```
