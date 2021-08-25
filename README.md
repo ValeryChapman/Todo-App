@@ -1,3 +1,14 @@
+# What is it?
+## How to start?
+```
+make build && make run
+```
+### If the application is launched for the first time, you need to apply migrations to the database
+```
+make migrate
+```
+
+# Documentation
 ## Contents
 - [API Constitution](#api_constitution)
   - [Request-response scheme](#api_constitution_scheme)
